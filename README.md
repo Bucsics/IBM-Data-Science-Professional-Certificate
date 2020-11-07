@@ -27,7 +27,9 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn
 Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
 
 Peer-graded Assignment: Capstone Project Notebook's
+
 Course Contents:
+
 Week 1 - Introduction to Capstone Project
 Introduction to Capstone Project
 Learning about the capstone project and the different tools and skills that you will learn in this course.
@@ -37,6 +39,7 @@ Creating a project on Watson Studio, create a project, start a notebook and shar
 Location Data Providers
 Signing-up for a Watson Studio Account
 Peer-review Assignment: Capstone Project Notebook
+
 Week 2 - Foursquare API
 Learning about Foursquare and its API.
 Learning how to create a Foursquare developer account.
@@ -56,10 +59,12 @@ Clustering
 Lab: Clustering
 Lab: Segmenting and Clustering Neighborhoods in New York City
 Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
+
 Week 4 - Capstone Project
 Define a problem for your capstone project.
 Discuss the data that you will use to solve the problem.
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
+
 Week 5 - Capstone Project (Cont'd)
 Carry out the remaining work to complete the capstone project.
 Submit a link to your project notebook and a complete project report.
