@@ -1,4 +1,4 @@
-@@ -1,6 +1,13 @@
+
 # IBM-Data-Science-Professional-Certificate
 - #### Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science
 - #### Final Report - 
@@ -20,13 +20,13 @@ Upon successfully completing these courses you will have done several hands-on a
 ### Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including:
 
-## Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+##### Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
-## Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+##### Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-## Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
+#### Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
 
-## Peer-graded Assignment: Capstone Project Notebook's
+##### Peer-graded Assignment: Capstone Project Notebook's
 
 ### Course Contents:
 
