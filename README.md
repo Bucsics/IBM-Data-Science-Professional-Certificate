@@ -2,8 +2,8 @@
 # IBM-Data-Science-Professional-Certificate
 - #### Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science
 - #### Final Report - 
--#### Final Project Code - 
--#### BlogPost - 
+- #### Final Project Code - 
+- #### BlogPost - 
 
 - #### Specialization Certificate Link: 
 
