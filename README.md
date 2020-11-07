@@ -1,14 +1,14 @@
+@@ -1,6 +1,13 @@
 # IBM-Data-Science-Professional-Certificate
-Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science
-
-Final Report - 
-Final Project Code - 
+- #### Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science
+- #### Final Report - 
+- #### Final Project Code - 
 
 BlogPost - 
 
 Specialization Certificate Link: 
 
-Description:
+### Description:
 Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.
 
 This program consists of 9 courses providing you with latest job-ready skills and techniques covering a wide array of data science topics including: open source tools and libraries, methodologies, Python, databases, SQL, data visualization, data analysis, and machine learning. You will practice hands-on in the IBM Cloud using real data science tools and real-world data sets.
@@ -17,18 +17,18 @@ It is a myth that to become a data scientist you need a Ph.D. This Professional 
 
 Upon successfully completing these courses you will have done several hands-on assignments and built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in Data Science. In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Data Science.
 
-Applied Learning Project
+### Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including:
 
-Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+## Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+## Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
+## Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
 
-Peer-graded Assignment: Capstone Project Notebook's
+## Peer-graded Assignment: Capstone Project Notebook's
 
-Course Contents:
+### Course Contents:
 
 Week 1 - Introduction to Capstone Project
 Introduction to Capstone Project
