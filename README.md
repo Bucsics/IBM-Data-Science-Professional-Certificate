@@ -3,10 +3,9 @@
 - #### Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science
 - #### Final Report - 
 - #### Final Project Code - 
+- #### BlogPost - 
 
-BlogPost - 
-
-Specialization Certificate Link: 
+- #### Specialization Certificate Link: 
 
 ### Description:
 Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.
@@ -20,17 +19,14 @@ Upon successfully completing these courses you will have done several hands-on a
 ### Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you practical skills with applicability to real jobs, including:
 
-##### Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
-
-##### Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
-
+#### Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio
+#### Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 #### Projects: random album generator, predict housing prices, best classifier model, battle of neighborhoods
-
-##### Peer-graded Assignment: Capstone Project Notebook's
+#### Peer-graded Assignment: Capstone Project Notebook's
 
 ### Course Contents:
 
-Week 1 - Introduction to Capstone Project
+#### Week 1 - Introduction to Capstone Project
 Introduction to Capstone Project
 Learning about the capstone project and the different tools and skills that you will learn in this course.
 Learning about the different location data providers and what location data is composed of.
@@ -40,7 +36,7 @@ Location Data Providers
 Signing-up for a Watson Studio Account
 Peer-review Assignment: Capstone Project Notebook
 
-Week 2 - Foursquare API
+#### Week 2 - Foursquare API
 Learning about Foursquare and its API.
 Learning how to create a Foursquare developer account.
 Creating a Foursquare developer account.
@@ -50,7 +46,8 @@ Getting Foursquare API Credentials
 Using Foursquare API
 Lab: Foursquare API
 Quiz: Foursquare API
-Week 3 - Neighborhood Segmentation and Clustering
+
+#### Week 3 - Neighborhood Segmentation and Clustering
 Learning about clustering and k-means clustering in particular.
 Learning how to use the Foursquare API and clustering to segment and cluster the neighborhoods in New York City.
 Learning how to use the Beautifulsoup Python package to scrape websites and parse HTML code.
@@ -60,27 +57,16 @@ Lab: Clustering
 Lab: Segmenting and Clustering Neighborhoods in New York City
 Peer-review Assignment: Segmenting and Clustering Neighborhoods in Toronto
 
-Week 4 - Capstone Project
+#### Week 4 - Capstone Project
 Define a problem for your capstone project.
 Discuss the data that you will use to solve the problem.
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 1)
 
-Week 5 - Capstone Project (Cont'd)
+#### Week 5 - Capstone Project (Cont'd)
 Carry out the remaining work to complete the capstone project.
 Submit a link to your project notebook and a complete project report.
 Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
 About
 Peer-Graded Assignment: Capstone Project Notebook | Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning.
 
-Topics
-data-science notebook watson-studio ibm machine-learning capstone neighborhoods foursquare python
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
 
